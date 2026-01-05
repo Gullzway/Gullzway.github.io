@@ -54,5 +54,8 @@
     },
     {
       "name": "Gullzway",
-      "address": "https://anisette-v3-server-jbeu.onrender.com/"
+      "address": "https://anisette-v3-server-jbeu.onrender.com"
     }
+  ],
+  "cache": "https://servers.sidestore.io/servers.json.hash"
+}

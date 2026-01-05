@@ -53,13 +53,6 @@
       "address": "https://ani.jaydenha.uk"
     },
     {
-      "name": "crystall1nedev's server",
-      "address": "https://anisette.crystall1ne.dev"
-    },
-    {
       "name": "Gullzway",
-      "address": "https://anisette-v3-server-jbeu.onrender.com"
+      "address": "https://anisette-v3-server-jbeu.onrender.com/"
     }
-  ],
-  "cache": "https://github.com/Gullzway/Gullzway.github.io/blob/main/servers.json"
-}
